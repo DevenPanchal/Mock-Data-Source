@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: RuntimeOrchestrator
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: thsiung
+Implementation-Vendor-Id: org.acumos
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/MockServer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
